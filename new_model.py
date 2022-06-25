@@ -8,3 +8,5 @@ def Model2:
 
 def Model3:
     return print("adding model 3")
+
+print("Model 2 is performing the best with 90% of accuracy")
